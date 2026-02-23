@@ -38,7 +38,7 @@ y cada render es un fragmento de imaginación materializada.
 
 https://github.com/user-attachments/assets/819af74c-99d6-445d-9012-cdb8729dc562
 
-**NOTA: Descargar el pull de DAVID ahi esta todo (no supimos como hacer para dejarlo en el main)**
+**NOTA: Descargar el branch de DAVID ahi esta todo (no supimos como hacer para dejarlo en el main)**
 
 ────────────────────────────────────────────────────────────
 
