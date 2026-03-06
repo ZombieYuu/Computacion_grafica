@@ -42,7 +42,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _SphereDescriptor: {r: -1.4, g: 1.4, b: 0.14, a: 3}
+    - _SphereDescriptor: {r: -1.4, g: 1.4, b: 0.23, a: 3}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &5098278245379897354
