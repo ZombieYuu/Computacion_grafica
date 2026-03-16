@@ -40,6 +40,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _ColorGradient:
+        m_Texture: {fileID: 2800000, guid: 649a3d52bc268b24d92e5fb3aaa788f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: 834549afbd0e38f41adcd67523e57ec0, type: 3}
         m_Scale: {x: 0.1, y: 0.1}
@@ -66,12 +70,12 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 0
     - _CastShadows: 1
-    - _CircleDepth: 1
+    - _CircleDepth: 0.15
     - _Circle_Tilit: 5
     - _Cull: 1
     - _DstBlend: 10
     - _DstBlendAlpha: 10
-    - _NormalStrength: 0.35
+    - _NormalStrength: 0.25
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -83,5 +87,6 @@ Material:
     m_Colors:
     - _CM_ReflectionsColor: {r: 1, g: 1, b: 1, a: 1}
     - _Circle_params: {r: 0.8, g: 0.2, b: 0, a: 0}
+    - _NoiseVeloz: {r: 0.2, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
