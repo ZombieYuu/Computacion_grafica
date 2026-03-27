@@ -42,9 +42,31 @@ https://github.com/user-attachments/assets/819af74c-99d6-445d-9012-cdb8729dc562
 
 ────────────────────────────────────────────────────────────
 
+✦ 𝓔𝓳𝓮𝓻𝓬𝓲𝓬𝓲𝓸 𝟐: 𝓓𝓪𝓻𝓭𝓸 𝓿𝓮𝓷𝓮𝓷𝓸𝓼𝓸
+
+✦ 𝓜𝓸𝓸𝓭𝓫𝓸𝓪𝓻𝓭:
+
+<img width="1705" height="953" alt="image" src="https://github.com/user-attachments/assets/da155340-76d4-4c2b-a552-759213d856c2" />
+
+https://www.canva.com/design/DAHE4kMJXJM/TM9NsGi3v1fZFhtmBXo6Zg/view?utm_content=DAHE4kMJXJM
+
+✦ 𝓒𝓸𝓷𝓬𝓮𝓹𝓽 𝓪𝓻𝓽:
+
+
+![WhatsApp Image 2026-03-25 at 10 40 48 AM](https://github.com/user-attachments/assets/8c8dd28a-c503-4108-b3f9-882faea6b13d)
+
+
+✦ 𝓥𝓲𝓭𝓮𝓸/𝓰𝓲𝓯:
+
+https://github.com/user-attachments/assets/22657656-3b9e-4951-9588-6e1f0d54a507
+
+
+**NOTA: Descargar el branch de DAVID ahi esta todo (no supimos como hacer para dejarlo en el main)**
+
+────────────────────────────────────────────────────────────
 ✦ 𝓥𝓮𝓻𝓼𝓲𝓸́𝓷
 
-v0.0.1  —  ✧ primer destello ✧
+v0.0.2  —  ✧ Dardo venenoso ✧
 
 ────────────────────────────────────────────────────────────
 
