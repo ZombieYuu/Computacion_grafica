@@ -95,6 +95,9 @@
         },
         {
             "m_Id": "d0d490a43f9a440c9fbf07224f76d657"
+        },
+        {
+            "m_Id": "c2bfdefad62142979a3be5adec120cb7"
         }
     ],
     "m_GroupDatas": [],
@@ -2381,6 +2384,44 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
+    "m_ObjectId": "c2bfdefad62142979a3be5adec120cb7",
+    "m_Group": {
+        "m_Id": ""
+    },
+    "m_Name": "Main_Light",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -4031.199951171875,
+            "y": 333.6000061035156,
+            "width": 208.0,
+            "height": 278.3999328613281
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "dd0ba38e0c3f43519ad3c142985c35e3"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_SerializedSubGraph": "{\n    \"subGraph\": {\n        \"fileID\": -5475051401550479605,\n        \"guid\": \"a8d5ffdc4150c2d4c9439a0a92605339\",\n        \"type\": 3\n    }\n}",
+    "m_PropertyGuids": [],
+    "m_PropertyIds": [],
+    "m_Dropdowns": [],
+    "m_DropdownSelectedEntries": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.NormalMaterialSlot",
     "m_ObjectId": "c64153f520ee4efeb51e5d58f3e9b73a",
     "m_Id": 0,
@@ -2632,6 +2673,31 @@
     "m_StageCapability": 3,
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
+    "m_ObjectId": "dd0ba38e0c3f43519ad3c142985c35e3",
+    "m_Id": 1,
+    "m_DisplayName": "Out_Vector4",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "OutVector4",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
     "m_Labels": []
 }
 
