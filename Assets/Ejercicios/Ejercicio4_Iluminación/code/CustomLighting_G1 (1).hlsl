@@ -37,7 +37,7 @@ void AdditionalLightsSimple_float(float2 UVSS, float3 PositionWS, float3 ViewDir
     #ifdef USE_FORWARD_PLUS
     
     InputData inputData = (inputData) 0;
-    inputData.normailzeScreenSpaceUV = UVSS;
+    inputData.normalizedScreenSpaceUV = UVSS;
     inputData.positionWS = PositionWS;
     
     #endif
