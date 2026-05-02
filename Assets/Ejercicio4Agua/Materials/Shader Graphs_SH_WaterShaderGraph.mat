@@ -24,6 +24,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2DLOD_d25e9a5b7db64d2cb6cc5e062ba10f38_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: bd6d13453b7d5e942a1e497048131c07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bc52238aafa9402a91e6093468a343ab_Texture_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -38,10 +46,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DepthDistance: 0
+    - _DisplacementAmount: 0.05
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _RefractionStrength: 0.05
     m_Colors:
-    - _WaterColor: {r: 0, g: 0.37710676, b: 0.97647053, a: 1}
+    - _DeepColor: {r: 0, g: 0.15041018, b: 1, a: 0.6980392}
+    - _ShallowColor: {r: 0.3075471, g: 0.88006246, b: 1, a: 0.5019608}
+    - _WaterColor: {r: 0, g: 0.38554192, b: 1, a: 1}
+    - _WaterDisplacementAnim: {r: 0.1, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &9097944660069168114

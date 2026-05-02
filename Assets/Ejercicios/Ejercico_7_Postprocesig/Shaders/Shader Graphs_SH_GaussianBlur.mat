@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_SH_Screen_scan
-  m_Shader: {fileID: -6465566751694194690, guid: f2af7e73dbff13d4fa377c37cf4ac710, type: 3}
+  m_Name: Shader Graphs_SH_GaussianBlur
+  m_Shader: {fileID: -6465566751694194690, guid: 3fc52a49d13fd164f8018ba021070c8d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,11 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ScanLine: 8.74
-    - _StripLine: 3
-    m_Colors:
-    - _LineParams: {r: 0.95, g: 0.05, b: 0, a: 0}
-    - _ScanColor: {r: 0, g: 2.670157, b: 1.9174609, a: 1}
-    - _ScanTransicion: {r: 1.22, g: 1.22, b: 0, a: 0}
+    - _FilterDistance: 1
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
